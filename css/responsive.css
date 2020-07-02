@@ -177,7 +177,7 @@
   }
 
   .nav__btn {
-    margin-left: 16em;
+    margin-left: 14em;
   }
 
   .inner__container {
@@ -241,7 +241,7 @@
   }
 
   .third-content {
-    padding-top: 2em;
+    padding-top: 2em !important;
   }
 
   .first__row {
@@ -303,13 +303,4 @@
   }
 }
 
-@media only screen and (min-width: 1210px) and (max-width: 1310px) {
-
-  body {
-    background: #010216;
-  }
-  .nav__btn {
-    margin-left: 1em !important;
-  }
-}
 
