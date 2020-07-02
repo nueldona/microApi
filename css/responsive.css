@@ -111,6 +111,10 @@
     width: 46em !important;
   }
 
+  .first__section-img {
+    margin-bottom: 3em;
+  }
+
   /* second section */
   .second__section p {
     width: 18em !important;
@@ -149,6 +153,10 @@
     font-size: 1.2em !important;
     text-align: center;
   }
+
+  .fifth__section-content .btn-content {
+    margin-left: 4em;
+  }
   
 }
 
@@ -169,7 +177,7 @@
   }
 
   .nav__btn {
-    margin-left: 28em;
+    margin-left: 25em;
   }
 
   .inner__container {
